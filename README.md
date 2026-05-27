@@ -1,0 +1,2 @@
+# diabetics-prediction
+symptoms
